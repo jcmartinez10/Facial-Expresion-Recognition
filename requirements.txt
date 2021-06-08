@@ -3,7 +3,7 @@
 
 # Demo.py: 12
 # test.py: 12
-Pillow == 5.4.1
+Pillow == 8.2.0
 
 # Demo.py: 51
 # test.py: 51
