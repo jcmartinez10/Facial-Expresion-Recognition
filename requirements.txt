@@ -23,7 +23,7 @@ matplotlib == 1.5.1
 
 # Demo.py: 4,53
 # test.py: 3,53
-numpy == 1.16.2
+numpy == 1.22.0
 
 # Demo.py: 55
 # test.py: 55
